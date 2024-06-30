@@ -26,12 +26,12 @@ import java.util.Collection;
 import java.util.ArrayList;
 import java.util.AbstractMap;
 
-@Mod("reds_weapons")
-public class RedsWeaponsMod {
-	public static final Logger LOGGER = LogManager.getLogger(RedsWeaponsMod.class);
-	public static final String MODID = "reds_weapons";
+@Mod("betterprofessions")
+public class BetterprofessionsMod {
+	public static final Logger LOGGER = LogManager.getLogger(BetterprofessionsMod.class);
+	public static final String MODID = "betterprofessions";
 
-	public RedsWeaponsMod() {
+	public BetterprofessionsMod() {
 		// Start of user code block mod constructor
 		// End of user code block mod constructor
 		MinecraftForge.EVENT_BUS.register(this);

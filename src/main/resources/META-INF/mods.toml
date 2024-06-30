@@ -3,9 +3,9 @@ loaderVersion="[47,)"
 license="Academic Free License v3.0"
 
 [[mods]]
-modId="reds_weapons"
+modId="betterprofessions"
 version="1.0.0"
-displayName="Red's Weapons"
+displayName="Better Professions"
 displayURL="https://mcreator.net"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="JD, MCreator"
@@ -13,7 +13,7 @@ authors="JD, MCreator"
 # Start of user code block mod configuration
 # End of user code block mod configuration
 
-[[dependencies.reds_weapons]]
+[[dependencies.betterprofessions]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.20.1]"

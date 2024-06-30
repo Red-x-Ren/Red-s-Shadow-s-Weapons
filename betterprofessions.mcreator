@@ -11,8 +11,8 @@
     "children": []
   },
   "workspaceSettings": {
-    "modid": "reds_weapons",
-    "modName": "Red\u0027s Weapons",
+    "modid": "betterprofessions",
+    "modName": "Better Professions",
     "version": "1.0.0",
     "author": "JD, MCreator",
     "websiteURL": "https://mcreator.net",
@@ -23,6 +23,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.redsweapons"
   },
   "mcreatorVersion": 202400118518
